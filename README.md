@@ -1,4 +1,4 @@
-## Hello there , are you lost Buddy👋
+## Hello there! long time no see. Were you lost or something, buddy?👋
 
 <!--
 **Solanki777/Solanki777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
