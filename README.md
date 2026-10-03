@@ -1,7 +1,7 @@
 # 👋 Hello there! Long time no see... Are you lost, buddy? 👋
 
 <h3 align="center">
-  Python Developer • Backend Developer • AI Engineer • Problem Solver
+  Software Development Engineer
 </h3>
 
 <p align="center">
@@ -20,37 +20,29 @@
 🏆 Ranked **5th** in AzzipTech 2026 AI Agent Making Competition<br>
 🏆 Ranked **54th among 800+ participants** in Agentic Arena 2026<br>
 💻 Solved **300+ LeetCode problems**<br>
-⚡ **Fun fact:** I get bored → get an idea → go for it → start building → and somehow end up with a project. 😄
+⚡ **Fun fact:** I get bored → get an idea → go for it → start building → and somehow end up with a project. 
 
 ---
 
-# 🚀 What I Build
+#  🎯 My Philosophy
 
 ```text
-💡 IDEA
-   ↓
-🧠 PROBLEM SOLVING
-   ↓
-🐍 PYTHON
-   ↓
-⚙️ BACKEND / AI
-   ↓
-🗄️ DATABASES & APIs
-   ↓
-🐳 DEPLOYMENT
-   ↓
-🚀 REAL-WORLD APPLICATION
+> **Get an idea.**
+>
+> **Go for it.**
+>
+> **Build it.**
+>
+> **Break it.**
+>
+> **Debug it.**
+>
+> **Learn from it.**
+>
+> **Make it better.** 🚀
 ```
 
 I enjoy turning ideas into working software and learning something new while building.
-
----
-
-# 🌐 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/solanki-mahesh-077557319)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:solankimaheshkhash7@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Solanki777)
 
 ---
 
@@ -207,9 +199,10 @@ An Android application focused on connecting blood donors with people who need b
 
 My personal repository for practicing Data Structures and Algorithms.
 
-💻 **300+ LeetCode problems solved**
+💻 **300 + 100  LeetCode and GfG problems solved**
 
-🔗 [View Repository](https://github.com/Solanki777/DSA-codes)
+🔗 [View LeetCode Profile](https://leetcode.com/u/AytnafdWbn/)
+🔗 [View GFG Profile](https://www.geeksforgeeks.org/profile/solankimah1uyb)
 
 ---
 
@@ -295,21 +288,7 @@ I continuously work on improving my problem-solving and software engineering ski
 
 ---
 
-# 🎯 My Philosophy
 
-> **Get an idea.**
->
-> **Go for it.**
->
-> **Build it.**
->
-> **Break it.**
->
-> **Debug it.**
->
-> **Learn from it.**
->
-> **Make it better.** 🚀
 
 ---
 
